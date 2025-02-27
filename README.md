@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C7B7&center=true&width=600&lines=Wajih+Ahmed;Embedded+Systems+Engineer;Yocto+%7C+ESP32+%7C+nRF52+%7C+C%2B%2B;Firmware+%7C+Linux+Kernel+%7C+RTOS">
+</h1>
 
 <!--
 **Wajih403/Wajih403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
