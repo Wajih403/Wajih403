@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
-  Hi there, I'm **Wajih Ahmed**, an **Embedded Systems Engineer** with expertise in **Yocto, ESP32, nRF52, and Linux Kernel**.
+  Hi there, I'm *"Wajih Ahmed".
 </p>
 
 ---
@@ -12,4 +12,4 @@
 ## 🚀 About Me
 - 🔭 Currently working as an **Embedded Systems Engineer @ Revive Medical Technologies Inc.**
 - 🛠️ **Specialized in**: Embedded Linux, Firmware, RTOS, Yocto, C/C++, ESP32, and Zephyr.
-- 📫 Reach me at **wajih@example.com**
+- 📫 Reach me at **www.linkedin.com/in/wajihahmed403**
