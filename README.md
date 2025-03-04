@@ -32,7 +32,7 @@
   </a>
 </p>
 
-## 🛠️ Languages & Tools  
+## 🛠️ Skills & Tools  
 
 <p align="center">
   <!-- Programming Languages -->
