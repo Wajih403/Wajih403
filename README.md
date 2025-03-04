@@ -31,3 +31,54 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
   </a>
 </p>
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Embedded%20C-02569B?style=for-the-badge&logo=c&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28">
+  <br>
+  
+  <!-- Embedded & RTOS -->
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/nRF91-00979D?style=for-the-badge&logo=nordic-semiconductor&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Zephyr-EB1C26?style=for-the-badge&logo=zephyr&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logoColor=white" height="28">
+  <br>
+  
+  <!-- OS & Kernel -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Yocto-92278F?style=for-the-badge&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Buildroot-ED8B00?style=for-the-badge&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/U-Boot-23385B?style=for-the-badge&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Linux%20Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" height="28">
+  <br>
+
+  <!-- Development & Debugging Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/OpenOCD-000000?style=for-the-badge&logo=openocd&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/JTAG-555555?style=for-the-badge&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Segger%20JLink-000000?style=for-the-badge&logoColor=white" height="28">
+  <br>
+
+  <!-- IDEs & Editors -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/PlatformIO-0066FF?style=for-the-badge&logo=platformio&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="28">
+  <br>
+  
+  <!-- Cloud & IoT -->
+  <img src="https://img.shields.io/badge/AWS_IoT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/LwM2M-000000?style=for-the-badge&logoColor=white" height="28">
+  <br>
+</p>
