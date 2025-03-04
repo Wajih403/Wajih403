@@ -4,14 +4,18 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
-  Hi there, I'm Wajih Ahmed... Nice to see u here.
+  Hi there, I'm Wajih Ahmed... Nice to see you here.
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working as an **Embedded Systems Engineer @ Revive Medical Technologies Inc.**
-- 🛠️ **Specialized in**: Embedded Linux, Firmware, RTOS, Yocto, C/C++, ESP32, and Zephyr.
+<div align="center">
+
+## 🚀 About Me  
+🔭 Currently working as an **Embedded Systems Engineer @ Revive Medical Technologies Inc.**  
+🛠️ **Specialized in**: Embedded Linux, Firmware, RTOS, Yocto, C/C++, ESP32, and Zephyr.  
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
