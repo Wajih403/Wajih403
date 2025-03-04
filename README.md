@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
   </a>
   </a>
-  <a href="www.linkedin.com/in/wajihahmed403" target="_blank">
+  <a href="[www.linkedin.com/in/wajihahmed403](https://www.linkedin.com/in/wajihahmed403/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
   </a>
