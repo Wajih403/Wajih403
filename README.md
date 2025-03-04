@@ -13,8 +13,8 @@
 - 🔭 Currently working as an **Embedded Systems Engineer @ Revive Medical Technologies Inc.**
 - 🛠️ **Specialized in**: Embedded Linux, Firmware, RTOS, Yocto, C/C++, ESP32, and Zephyr.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://github.com/MuhammadZakaria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
   </a>
